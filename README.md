@@ -10,7 +10,3 @@
 - Simply replace your own youtube video url in the webscrapindcomment.py
 - And run command in the same directory
 - python webscrapindcomment.py
-
-### Screenshot/GIF showing the sample use of the script
-![](demo.gif)
-
